@@ -201,6 +201,9 @@ textarea:focus {
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
+.arrow:hover{
+  cursor: pointer;
+}
 .prev {
   left: 0;
   background: url(../img/arrow-left.svg) center no-repeat;
@@ -323,6 +326,9 @@ textarea:focus {
   height: 5rem;
   background-color: #46b814;
   border: none;
+}
+.feedback-slider-btn:hover{
+  cursor: pointer;
 }
 .feedback-slider-btn img {
   width: 50%;
