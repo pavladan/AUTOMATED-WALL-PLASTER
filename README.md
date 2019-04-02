@@ -1,2 +1,2 @@
 # AUTOMATED-WALL-PLASTER
-Site on html + css
+See on https://pavladan.github.io/AUTOMATED-WALL-PLASTER/
